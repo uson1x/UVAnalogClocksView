@@ -1,7 +1,7 @@
 UVAnalogClocksView
 ==================
 
-UVAnalogClocksView is an UIView subclass used to display analog clocks
+UVAnalogClocksView is an UIView subclass used to display analog clocks.
 
 Installation
 ==================
